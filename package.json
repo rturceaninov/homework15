@@ -1,0 +1,19 @@
+{
+  "name": "homework15",
+  "version": "1.0.0",
+  "description": "add package JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rturceaninov/homework15.git"
+  },
+  "author": "Ruslan Turceaninov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rturceaninov/homework15/issues"
+  },
+  "homepage": "https://github.com/rturceaninov/homework15#readme"
+}
